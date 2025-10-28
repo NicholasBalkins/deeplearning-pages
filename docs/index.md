@@ -1,11 +1,5 @@
 # Deep Learning Pages
 
-Bem-vindo(a) ao portfólio de projetos desenvolvidos na disciplina **Deep Learning**.  
-Aqui estão reunidos os experimentos, relatórios e implementações realizados ao longo do curso, com foco em **aprendizado supervisionado**, **redes neurais** e **modelagem prática**.
-
----
-
-
 ## Projetos Desenvolvidos
 
 | Projeto |
